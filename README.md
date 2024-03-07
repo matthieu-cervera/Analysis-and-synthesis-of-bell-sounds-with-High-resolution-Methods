@@ -1,0 +1,1 @@
+This practical work aims to develop high resolution spectral estimation methods in order to perform analysis / synthesis of bell sounds. We'll show the limits of the spectral resolution of Fourier Transform in the context of bell sounds which are inharmonic instruments.
